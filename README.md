@@ -1,2 +1,11 @@
-# trilha-eng-dados-santander
-Este repositório contempla todo o conteúdo abordado no curso de Engenharia de Dados do programa Santander Coders 2023.
+# Ciclomobilidade e Infraestrutura Cicloviária em Fortaleza
+
+**Autor:** Pedro Florencio de Almeida Neto
+
+Cientista de Dados - Instituto de Planejamento de Fortaleza (Iplanfor)
+
+**Contato:** *pedroflorencio@alu.ufc.br*
+
+---
+
+#### 1. Contextualização
