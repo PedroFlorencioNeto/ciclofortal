@@ -1,4 +1,4 @@
-# CicloFortal: Estudo sobre a Ciclomobilidade e Infraestrutura Civloviária em Fortaleza
+# CicloFortal
 
 **Autor:** Pedro Florencio de Almeida Neto
 
